@@ -1,7 +1,7 @@
 # einholzstuhl Assistant
 
-Dateien öffnen:
+###### Dateien öffnen:
 Öffne .gdoc Datein mit einem Texteditor und .xml mit draw.io
 
-Beschreibung:
+###### Beschreibung:
 Körperliches und Geistiges Wohlempfinden erhöhen mit hilfe der Psychologie und unterstützenden Werkzeugen.
