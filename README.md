@@ -1,4 +1,3 @@
 # einholzstuhl-Assistant
 
-Open .gdoc files with a text editor
-Open .xml files with draw.io
+Open .gdoc files with a text editor and .xml files with draw.io
