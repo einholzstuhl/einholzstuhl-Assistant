@@ -1,7 +1,7 @@
+![App Logo](https://i.imgur.com/5J0OQCz.png)
 # einholzstuhl Assistant
-
 ## Dateien öffnen
-Öffne .gdoc Datein mit Google Docs und .xml mit draw.io
+Öffne .gdoc Datein mit einem Texteditor und .xml mit draw.io
 
 ## Beschreibung
 Körperliches und Geistiges Wohlempfinden erhöhen mit hilfe der Psychologie und unterstützenden Werkzeugen.
