@@ -1,3 +1,7 @@
-# einholzstuhl-Assistant
+# einholzstuhl Assistant
 
-Open .gdoc files with a text editor and .xml files with draw.io
+Dateien öffnen:
+Öffne .gdoc Datein mit einem Texteditor und .xml mit draw.io
+
+Beschreibung:
+Körperliches und Geistiges Wohlempfinden erhöhen mit hilfe der Psychologie und unterstützenden Werkzeugen.
