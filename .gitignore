@@ -1,1 +1,4 @@
+desktop.ini
 **/desktop.ini
+git reset --soft
+git add .
