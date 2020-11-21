@@ -1,4 +1,5 @@
-![App Logo](https://i.imgur.com/5J0OQCz.png)
+![App Logo](https://i.imgur.com/x0jOGfK.png)
+
 # einholzstuhl Assistant
 ## Dateien öffnen
 Öffne .gdoc Datein mit einem Texteditor und .xml mit draw.io
