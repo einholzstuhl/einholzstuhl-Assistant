@@ -9,13 +9,10 @@ einholzstuhl
 ### Project planing
 einholzstuhl
 
-### Design
-UI/UX
+### UI/UX
 einholzstuhl
 
-Icons
-x (x) icon made by x from @flaticon
-
+### Icons
 apple (food) icon made by Freepik from @flaticon
 
 gender (sex) icon made by Feepik from @flaticon
@@ -214,11 +211,21 @@ infografic (statistics) icon made by Becis from @flaticon
 
 koordinater (Fähigkeiten und Ressourcen) icon made by ultimataerm from @flaticon
 
+x (x) icon made by x from @flaticon
+
+x (x) icon made by x from @flaticon
+
+x (x) icon made by x from @flaticon
+
+x (x) icon made by x from @flaticon
+
 ### Inspiration to make this project
 jigs4wkiller
+
 Jordan Peterson
+
 Elon Musk
+
 Alex Becker
 
 ### Made on Earth - Assembled in Germany
-
