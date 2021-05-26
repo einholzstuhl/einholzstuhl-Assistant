@@ -9,6 +9,10 @@ Körperliches und Geistiges Wohlempfinden erhöhen mit hilfe der Psychologie und
 Tracken der eigenen Gefühlslage
 ...
 
+## Dateien öffnen
+.xml -> draw.io
+.doc -> GDocs
+
 ## Roadmap
 1. Web App
 2. Augmented Reality (AR)
@@ -16,6 +20,3 @@ Tracken der eigenen Gefühlslage
 
 ## Recherche Dokumente - Biologie und Psychologie
 https://drive.google.com/drive/folders/1cZE8lpZCbmXgmc9jXAZS5rSeMl7sXCAM
-
-## Dateien öffnen
-.xml mit draw.io
