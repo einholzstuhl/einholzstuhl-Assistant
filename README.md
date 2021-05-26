@@ -1,8 +1,6 @@
 ![App Logo](https://i.imgur.com/x0jOGfK.png)
 
 # einholzstuhl Assistant
-## Dateien öffnen
-Öffne .gdoc Datein mit einem Texteditor und .xml mit draw.io
 
 ## Beschreibung
 Körperliches und Geistiges Wohlempfinden erhöhen mit hilfe der Psychologie und unterstützenden Werkzeugen.
@@ -16,3 +14,9 @@ Tracken der eigenen Gefühlslage
 2. Web App Entwicklung
 3. AR Entwicklung
 4. BMI Entwicklung
+
+## Recherche Dokumente - Biologie und Psychologie
+https://drive.google.com/drive/folders/1cZE8lpZCbmXgmc9jXAZS5rSeMl7sXCAM
+
+## Dateien öffnen
+.xml mit draw.io
